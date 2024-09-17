@@ -1,8 +1,14 @@
 ## MACROECONOMÍA
-#### Grado en Finanzas y Contabilidad
-#### Doble grado en Derecho y Finanzas y Contabilidad
-#### Universidad Pablo de Olavide
+<br /> 
 
+**Grado en Finanzas y Contabilidad**  
+
+**Doble grado en Derecho y Finanzas y Contabilidad**  
+
+**Universidad Pablo de Olavide**  
+
+<br /> 
+<br /> 
 ### EPD 1
 *Se subirá la semana anterior a cuando se imparta*
 
