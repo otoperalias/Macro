@@ -1,5 +1,3 @@
-## MACROECONOMÍA
-XDYF903029, GFYC502013 (UPO)
 
 <br /> 
 <br /> 
