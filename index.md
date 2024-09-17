@@ -1,6 +1,4 @@
 
-<br /> 
-<br /> 
 
 ### EPD 1
 *Se subirá la semana anterior a cuando se imparta*
