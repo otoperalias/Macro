@@ -6,7 +6,9 @@
 <br /> 
 
 ### EPD 1
-*Se subirá la semana anterior a cuando se imparta*
+[Boletín ejercicios](https://github.com/otoperalias/Macro/blob/main/files/EPD1%20Macro.docx.pdf)  
+[Datos para resolver el boletín](https://github.com/otoperalias/Macro/blob/main/files/Datos_Espa%C3%B1aEPD1.xls)
+ 
 
 ### EPD 2
 *Se subirá la semana anterior a cuando se imparta*
