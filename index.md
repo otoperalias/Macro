@@ -29,5 +29,9 @@
 *Se subirá la semana anterior a cuando se imparta*
 
 ### EPD 8
-*Se subirá la semana anterior a cuando se imparta*
+*Se subirá la semana anterior a cuando se imparta*  
 
+<br /> 
+
+##### Enlaces de interés:
+* [Píldoras estadísticas del INE](https://www.ine.es/explica/explica_pasos_pildoras.htm)
