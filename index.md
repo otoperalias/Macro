@@ -17,7 +17,7 @@
 [Boletín ejercicios (semana 14-18 de octubre)](https://github.com/otoperalias/Macro/blob/main/files/EPD3%20Macro.pdf)  
 
 ### EPD 4
-*Se subirá la semana anterior a cuando se imparta*
+[Boletín ejercicios (semana 21-25 de octubre)](https://github.com/otoperalias/Macro/blob/main/files/EPD4.pdf)
 
 ### EPD 5
 *Se subirá la semana anterior a cuando se imparta*
