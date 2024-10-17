@@ -34,4 +34,5 @@
 <br /> 
 
 ##### Enlaces de interés:
+* [Normas en clase](https://github.com/otoperalias/Macro/blob/main/Normas.md)
 * [Píldoras estadísticas del INE](https://www.ine.es/explica/explica_pasos_pildoras.htm)
