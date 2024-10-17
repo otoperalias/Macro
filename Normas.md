@@ -1,7 +1,7 @@
 
-<img src="https://github.com/otoperalias/Coyuntura/blob/main/clases/images/stay focused.jpg" alt="drawing" width="610"/>
+<img src="https://raw.githubusercontent.com/otoperalias/Coyuntura/refs/heads/main/clases/images/stay%20focused.jpg" alt="drawing" width="610"/>
 
 <p float="middle">
-<img src="https://github.com/otoperalias/Coyuntura/blob/main/clases/images/movil prohibido.jpg" alt="drawing" width="300"/> &nbsp;&nbsp; 
-<img src="https://github.com/otoperalias/Coyuntura/blob/main/clases/images/charlar prohibido.jpg" alt="drawing" width="300"/> 
+<img src="https://raw.githubusercontent.com/otoperalias/Coyuntura/refs/heads/main/clases/images/movil%20prohibido.jpg" alt="drawing" width="300"/> &nbsp;&nbsp; 
+<img src="https://raw.githubusercontent.com/otoperalias/Coyuntura/refs/heads/main/clases/images/charlar%20prohibido.jpg" alt="drawing" width="300"/> 
 </p>
