@@ -33,6 +33,6 @@
 
 <br /> 
 
-##### Enlaces de interés:
-* [Normas en clase](https://github.com/otoperalias/Macro/blob/main/Normas.md)
+### <span style="color:black"> Enlaces de interés: </span>  
+* [Normas en clase](https://otoperalias.github.io/Macro/Normas)
 * [Píldoras estadísticas del INE](https://www.ine.es/explica/explica_pasos_pildoras.htm)
