@@ -1,4 +1,7 @@
-## Noticias:
+<br /> 
+
+
+### NOTICIAS:
 
 ### Política monetaria:
 1. [El BCE encadena dos recortes de tipos por primera vez desde la crisis del euro](https://elpais.com/economia/2024-10-17/el-bce-encadena-dos-recortes-de-tipos-por-primera-vez-desde-la-crisis-del-euro.html)
