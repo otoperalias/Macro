@@ -35,4 +35,5 @@
 
 ### <span style="color:black"> Enlaces de interés: </span>  
 * [Normas en clase](https://otoperalias.github.io/Macro/Normas)
+* [Noticias sobre macroeconomía](https://otoperalias.github.io/Macro/news)
 * [Píldoras estadísticas del INE](https://www.ine.es/explica/explica_pasos_pildoras.htm)
