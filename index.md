@@ -24,7 +24,7 @@
 [Datos para resolver el boletín](https://github.com/otoperalias/Macro/blob/main/files/DatosEPD5.xlsx)
 
 ### EPD 6
-*Se subirá la semana anterior a cuando se imparta*
+[Boletín ejercicios (semana 18-22 de noviembre)](https://github.com/otoperalias/Macro/blob/main/files/EPD6.pdf)  
 
 ### EPD 7
 *Se subirá la semana anterior a cuando se imparta*
