@@ -27,7 +27,7 @@
 [Boletín ejercicios (semana 18-22 de noviembre)](https://github.com/otoperalias/Macro/blob/main/files/EPD6.pdf)  
 
 ### EPD 7
-*Se subirá la semana anterior a cuando se imparta*
+[Boletín ejercicios (semana 25-29 de noviembre)](https://github.com/otoperalias/Macro/blob/main/files/EPD7.pdf)   
 
 ### EPD 8
 *Se subirá la semana anterior a cuando se imparta*  
