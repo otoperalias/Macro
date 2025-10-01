@@ -10,7 +10,7 @@ CURSO 2025-26
 <br /> 
 
 ### EPD 1 (Aula Informática)
-[Boletín ejercicios (semana 6 de octubre)]()  
+[Boletín ejercicios (semana 6 de octubre)](https://github.com/otoperalias/Macro/blob/main/files/EPD1%20Macro.pdf)  
 [Datos para resolver el boletín]()
  
 ### EPD 2
