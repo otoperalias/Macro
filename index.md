@@ -1,7 +1,4 @@
 <br /> 
-
-CURSO 2025-26
-
 <br /> 
 
 ### Manual de la asignatura
@@ -11,28 +8,27 @@ CURSO 2025-26
 
 ### EPD 1 (Aula Informática)
 [Boletín ejercicios (semana 6 de octubre)](https://github.com/otoperalias/Macro/blob/main/files/EPD1%20Macro.pdf)  
-[Datos para resolver el boletín]()
  
 ### EPD 2
-[Boletín ejercicios (semana 13 de octubre)]()  
+<!-- [Boletín ejercicios (semana 13 de octubre)]()  -->
 
 ### EPD 3
-[Boletín ejercicios (semana 20 de octubre)]()  
+<!-- [Boletín ejercicios (semana 20 de octubre)]()  -->
 
 ### EPD 4
-[Boletín ejercicios (semana 27 de octubre)]()
+<!-- [Boletín ejercicios (semana 27 de octubre)]() -->
 
 ### EPD 5 (Aula Informática)
 Prueba excel (semana 10 de noviembre)
 
 ### EPD 6
-[Boletín ejercicios (semana 17 de noviembre)]()  
+<!-- [Boletín ejercicios (semana 17 de noviembre)]()  -->
 
 ### EPD 7
-[Boletín ejercicios (semana 24 de noviembre)]()   
+<!-- [Boletín ejercicios (semana 24 de noviembre)]()   -->
 
 ### EPD 8
-[Boletín ejercicios (semana 1 de diciembre)]()   
+<!-- [Boletín ejercicios (semana 1 de diciembre)]()   -->
 
 <br /> 
 
