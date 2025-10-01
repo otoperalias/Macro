@@ -1,3 +1,5 @@
+<br /> 
+<br /> 
 
 ### Manual de la asignatura
 *Blanchard, Olivier. Macroeconomía, 7ª edición.  Editorial: Pearson*  
