@@ -34,5 +34,6 @@ Prueba excel (semana 10 de noviembre)
 
 ### <span style="color:black"> Enlaces de interés: </span>  
 * [Normas en clase](https://otoperalias.github.io/Macro/Normas)
+* [FAQ sobre política monetaria y estabilidad de precios (Banco de España)](https://www.bde.es/wbe/es/areas-actuacion/politica-monetaria/preguntas-frecuentes/politica-monetaria-y-estabilidad-precios/)
 * [Noticias sobre macroeconomía](https://otoperalias.github.io/Macro/news)
 * [Píldoras estadísticas del INE](https://www.ine.es/explica/explica_pasos_pildoras.htm)
