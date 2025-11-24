@@ -28,7 +28,7 @@ Prueba excel (semana 10 de noviembre)
 [Boletín ejercicios (semana 24 de noviembre)](https://github.com/otoperalias/Macro/blob/main/files/EPD7.pdf) 
 
 ### EPD 8
-<!-- [Boletín ejercicios (semana 1 de diciembre)]()   -->
+[Boletín ejercicios (semana 1 de diciembre)](https://github.com/otoperalias/Macro/blob/main/files/EPD8.pdf) 
 
 <br /> 
 
