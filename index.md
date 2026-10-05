@@ -8,9 +8,10 @@
 
 ### EPD 1 (Aula Informática)
 [Boletín ejercicios (semana 6 de octubre)](https://github.com/otoperalias/Macro/blob/main/files/EPD1%20Macro.pdf)  
- 
+
+ <!--
 ### EPD 2
-[Boletín ejercicios (semana 13 de octubre)](https://github.com/otoperalias/Macro/blob/main/files/EPD2%20Macro.pdf)  
+[Boletín ejercicios (semana 12 de octubre)](https://github.com/otoperalias/Macro/blob/main/files/EPD2%20Macro.pdf)  
 
 ### EPD 3
 [Boletín ejercicios (semana 20 de octubre)](https://github.com/otoperalias/Macro/blob/main/files/EPD3%20Macro.pdf)  
@@ -29,7 +30,7 @@ Prueba excel (semana 10 de noviembre)
 
 ### EPD 8
 [Boletín ejercicios (semana 1 de diciembre)](https://github.com/otoperalias/Macro/blob/main/files/EPD8.pdf) 
-
+-->
 <br /> 
 
 ### <span style="color:black"> Enlaces de interés: </span>  
