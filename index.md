@@ -13,7 +13,7 @@
 [Boletín ejercicios (semana 19 de octubre)](https://github.com/otoperalias/Macro/blob/main/files/EPD2%20Macro.pdf)  
 
 ### EPD 3
-Boletín ejercicios (semana 29 de octubre)
+[Boletín ejercicios (semana 26 de octubre)](https://github.com/otoperalias/Macro/blob/main/files/EPD2%20Macro.pdf)
 
 ### EPD 4
 Boletín ejercicios (semana 09 de noviembre)
