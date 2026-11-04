@@ -16,7 +16,7 @@
 [Boletín ejercicios (semana 26 de octubre)](https://github.com/otoperalias/Macro/blob/main/files/EPD3%20Macro.pdf)
 
 ### EPD 4
-Boletín ejercicios (semana 09 de noviembre)
+[Boletín ejercicios (semana 09 de noviembre)](https://github.com/otoperalias/Macro/blob/main/files/EPD4.pdf)
 
 ### EPD 5 (Aula Informática)
 Prueba excel (semana 16 de noviembre)
