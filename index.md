@@ -22,7 +22,7 @@
 Prueba excel (semana 16 de noviembre)
 
 ### EPD 6
-Boletín ejercicios (semana 23 de noviembre)
+[Boletín ejercicios (semana 23 de noviembre)](https://github.com/otoperalias/Macro/blob/main/files/EPD6%20Macro.pdf)
 
 ### EPD 7
 Boletín ejercicios (semana 30 de noviembre)
